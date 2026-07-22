@@ -20,5 +20,8 @@
 - [ ] Make the UI look best, use heroicons for everything. Thanks
 
 #### Mobile Mode
-
+ggg
 - [ ] Optimize the site's styling for mobile view (hamburger sidebar, etc.)
+## Problems
+- UI isn't the correct sizes when logging in.
+- Logs
